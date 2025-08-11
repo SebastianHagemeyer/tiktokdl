@@ -26,7 +26,7 @@ Paste one or more TikTok video URLs, select an output folder, and click **Downlo
 ```bash
 pip install yt-dlp certifi
 
-
+```
 
 ## Star History
 
