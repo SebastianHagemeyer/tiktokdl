@@ -25,3 +25,15 @@ Paste one or more TikTok video URLs, select an output folder, and click **Downlo
 ### Install dependencies
 ```bash
 pip install yt-dlp certifi
+
+
+
+## Star History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SebastianHagemeyer/tiktokdl&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SebastianHagemeyer/tiktokdl&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SebastianHagemeyer/tiktokdl&type=Date" />
+</picture>
+
+[See interactive chart](https://star-history.com/#SebastianHagemeyer/tiktokdl&Date)
